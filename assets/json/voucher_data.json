@@ -7,7 +7,7 @@
     "price": 50000,
     "discountPercentage": 0,
     "category": "fnb",
-    "soldCount": 140,
+    "soldCount": 140
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "price": 90000,
     "discountPercentage": 10,
     "category": "fnb",
-    "soldCount": 312,
+    "soldCount": 312
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "price": 160000,
     "discountPercentage": 20,
     "category": "fnb",
-    "soldCount": 498,
+    "soldCount": 498
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "price": 300000,
     "discountPercentage": 0,
     "category": "fnb",
-    "soldCount": 10,
+    "soldCount": 10
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "price": 450000,
     "discountPercentage": 10,
     "category": "fnb",
-    "soldCount": 210,
+    "soldCount": 210
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "price": 50000,
     "discountPercentage": 0,
     "category": "fnb",
-    "soldCount": 56,
+    "soldCount": 56
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "price": 100000,
     "discountPercentage": 0,
     "category": "fnb",
-    "soldCount": 105,
+    "soldCount": 27
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "price": 200000,
     "discountPercentage": 0,
     "category": "fnb",
-    "soldCount": 385,
+    "soldCount": 42
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "price": 270000,
     "discountPercentage": 10,
     "category": "fnb",
-    "soldCount": 264,
+    "soldCount": 264
   },
   {
     "id": 10,
@@ -95,9 +95,9 @@
     "imageUrl": "assets/images/dominos.png",
     "amount": 500000,
     "price": 500000,
-    "discountPercentage": 10,
+    "discountPercentage": 0,
     "category": "fnb",
-    "soldCount": 500,
+    "soldCount": 34
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "price": 50000,
     "discountPercentage": 0,
     "category": "hobby",
-    "soldCount": 56,
+    "soldCount": 56
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "price": 100000,
     "discountPercentage": 0,
     "category": "hobby",
-    "soldCount": 105,
+    "soldCount": 70
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "price": 200000,
     "discountPercentage": 0,
     "category": "hobby",
-    "soldCount": 385,
+    "soldCount": 19
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "price": 300000,
     "discountPercentage": 0,
     "category": "hobby",
-    "soldCount": 264,
+    "soldCount": 6
   },
   {
     "id": 15,
@@ -145,9 +145,9 @@
     "imageUrl": "assets/images/grab.png",
     "amount": 500000,
     "price": 500000,
-    "discountPercentage": 10,
+    "discountPercentage": 0,
     "category": "hobby",
-    "soldCount": 500,
+    "soldCount": 12
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "price": 50000,
     "discountPercentage": 0,
     "category": "fashion",
-    "soldCount": 56,
+    "soldCount": 56
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "price": 100000,
     "discountPercentage": 0,
     "category": "fashion",
-    "soldCount": 105,
+    "soldCount": 30
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "price": 200000,
     "discountPercentage": 0,
     "category": "fashion",
-    "soldCount": 385,
+    "soldCount": 10
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "price": 300000,
     "discountPercentage": 0,
     "category": "fashion",
-    "soldCount": 264,
+    "soldCount": 1
   },
   {
     "id": 20,
@@ -197,6 +197,6 @@
     "price": 500000,
     "discountPercentage": 0,
     "category": "fashion",
-    "soldCount": 500,
+    "soldCount": 0
   }
 ]

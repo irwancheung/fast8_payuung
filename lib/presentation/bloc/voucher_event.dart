@@ -5,5 +5,7 @@ sealed class VoucherEvent extends BlocEvent {
 }
 
 class GetVouchersEvent extends VoucherEvent {
-  const GetVouchersEvent();
+  final GetVouchersParams params;
+
+  const GetVouchersEvent(this.params);
 }

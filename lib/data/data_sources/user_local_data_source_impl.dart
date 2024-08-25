@@ -5,10 +5,10 @@ import 'package:fast8_payuung/data/models/employment_or_business_local_model.dar
 import 'package:fast8_payuung/data/models/user_local_model.dart';
 import 'package:fast8_payuung/domain/data_sources/user_local_data_source.dart';
 
-class UserLocalDataSourceImpls implements UserLocalDataSource {
+class UserLocalDataSourceImpl implements UserLocalDataSource {
   final LocalStorage _storage;
 
-  UserLocalDataSourceImpls(this._storage);
+  UserLocalDataSourceImpl(this._storage);
 
   @override
   Future<UserLocalModel> getUser() async {

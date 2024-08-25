@@ -1,6 +1,5 @@
 import 'package:bloc/bloc.dart';
 import 'package:fast8_payuung/core/blocs/bloc_event_state.dart';
-import 'package:fast8_payuung/core/use_cases/use_case.dart';
 import 'package:fast8_payuung/domain/entities/voucher.dart';
 import 'package:fast8_payuung/domain/use_cases/get_vouchers.dart';
 
@@ -20,7 +19,7 @@ class VoucherBloc extends Bloc<VoucherEvent, VoucherState> {
   Future<void> _onGetVouchers(GetVouchersEvent event, Emitter<VoucherState> emit) async {
     emit(const GetVouchersState(state: State.loading));
 
-    final result = await _getVouchers(NoParams());
+    final result = await _getVouchers(event.params);
 
     result.fold(
       (e) => emit(GetVouchersState(state: State.error, errorMessage: e.message)),
